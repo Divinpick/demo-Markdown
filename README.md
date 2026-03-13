@@ -18,5 +18,3 @@ Apprendre le **Markdown**
 [GitHub · Change is constant. GitHub keeps you ahead. · GitHub](https://github.com/)
 <h1> hello world<h1>
 
-![meme](video/
-2026-03-10 23-13-11.mp4)
